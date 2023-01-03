@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-//algoritmo que leia três números inteiros e imprime os três em ordem crescente.
+//algoritmo que ler trÃªs nÃºmeros inteiros e imprime os trÃªs em ordem crescente.
 
  main(){
  	int num1, num2, num3;
