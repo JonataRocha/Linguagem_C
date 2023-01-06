@@ -1,2 +1,2 @@
 # Linguagem_C
- Código de Algoritmo que leia três números inteiros e imprima os três em ordem crescente.
+ Código de Algoritmo que ler três números inteiros e imprime os três em ordem crescente.
