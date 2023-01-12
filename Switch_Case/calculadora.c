@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-//Faça um algoritmo que peça dois números ao usuário e a operação a ser realizada(+,-,* e /). Utilize o ESCOLHA
+//Faï¿½a um algoritmo que peï¿½a dois nï¿½meros ao usuï¿½rio e a operaï¿½ï¿½o a ser realizada(+,-,* e /).
 
 main(){
 	int num1,num2;
