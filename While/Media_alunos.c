@@ -1,13 +1,13 @@
 #include<stdio.h>
 
-/*Em uma turma h· 10 alunos. Cada aluno tem 2 notas. Um professor precisa calcular a mÈdia das duas notas de cada aluno.
-programa que resolve este problema.Qual a mÈdia geral da turma*/
+/*Em uma turma h√° 10 alunos. Cada aluno tem 2 notas. Um professor precisa calcular a m√©dia das duas notas de cada aluno.
+programa que resolve este problema.Qual a m√©dia geral da turma*/
 
 main(){
 	float nota_1, nota_2, media_aluno, media_geral;
 	char nome_aluno [50];
 	int i=1;
-	while(i <= 3){
+	while(i <= 10){
 		printf("Informe o nome do %do Aluno:", i);
 		scanf("%s", &nome_aluno);
 		
@@ -18,7 +18,7 @@ main(){
 		scanf("%f", &nota_2);
 		
 		media_aluno = (nota_1 + nota_2)/2;
-		media_geral += media_aluno/3;
+		media_geral += media_aluno/10;
 		
 		printf("-------media do Aluno--------\n");
 		printf("A media do %s eh de %.1f\n",nome_aluno, media_aluno);
